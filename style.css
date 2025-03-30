@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    color: white;
+}
+.calendar {
+    margin: 20px 0;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+.month-header {
+    background-color: aqua;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 25px;
+}
+table {
+    margin: 0px;
+}
+th {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+}
+td {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.empty {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
